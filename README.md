@@ -1,54 +1,43 @@
-# 🧑‍💻 Interactive Personal Data Collector
+# 🚀 Python Fundamental Booster
 
-A beginner-friendly Python project that collects personal information
-from the user, demonstrates Python data types, memory addresses using
-`id()`, basic type conversion, arithmetic operations, and formatted
-console output.
+## 📌 Project Overview
 
-## ✨ Features
+An interactive Python console application that collects user information and demonstrates Python fundamentals including input, data types, memory addresses, arithmetic operations, and type conversion.
 
--   👤 Accepts user input (name, age, height, favourite number)
--   🔢 Demonstrates Python data types
--   🧠 Displays object memory addresses using `id()`
--   🎂 Calculates approximate birth year
--   📏 Rounds height to an integer
--   💬 Clean console interaction
+This project was built to practice the basics of Python programming while creating a simple and interactive command-line application.
 
-## 🛠️ Technologies
+---
 
--   Python 3
+## 📸 Output Screenshot
 
-## 📂 Project Structure
+Place the uploaded screenshot in `Screenshots/Python_Fundamental_Booster_Output.png`.
 
-``` text
-Python_Fundamentals/
-├── Fundamental_Booster.py
-├── README.md
-└── Screenshots/
-```
+![Program Output](Screenshots/Python_Fundamental_Booster_Output.png)
+
+---
 
 ## 🔄 Flowchart
 
-``` text
+```text
 Start
   │
   ▼
 Display Welcome Message
   │
   ▼
-Read Name
+Get Name
   │
   ▼
-Read Age
+Get Age
   │
   ▼
-Read Height
+Get Height
   │
   ▼
-Read Favourite Number
+Get Favourite Number
   │
   ▼
-Display Values + Types + Memory Addresses
+Display User Information
   │
   ▼
 Calculate Birth Year
@@ -57,51 +46,78 @@ Calculate Birth Year
 Round Height
   │
   ▼
-Display Summary
+Display Goodbye Message
   │
   ▼
- End
+End
 ```
 
-## 📸 Project Screenshots
+---
 
-### Console Output
+## ✨ Features
 
-> Save the first screenshot inside **Screenshots/** as
-> `console-output.png`.
+- Interactive user input
+- Displays data types using `type()`
+- Displays memory addresses using `id()`
+- Calculates approximate birth year
+- Rounds height to an integer
+- Beginner-friendly Python program
 
-![Console Output](Screenshots/console-output.png)
+---
 
-### Project Folder
+## 🛠️ Technologies Used
 
-> Save the second screenshot inside **Screenshots/** as
-> `project-folder.png`.
+- Python 3
 
-![Project Folder](Screenshots/project-folder.png)
+---
 
-## ▶️ How to Run
+## 📂 Project Structure
 
-``` bash
+```text
+Python_Fundamental_Booster/
+│
+├── Fundamental_Booster.py
+├── README.md
+└── Screenshots/
+    └── Python_Fundamental_Booster_Output.png
+```
+
+---
+
+## ▶️ Run
+
+```bash
 python Fundamental_Booster.py
 ```
 
-## 💡 Concepts Demonstrated
+---
 
--   Variables
--   Input/Output
--   Type Casting
--   `type()`
--   `id()`
--   Arithmetic Operations
--   Integer Conversion
--   Formatted Printing
+## 📚 Concepts Practiced
 
-## 🎯 Learning Outcome
+- Variables
+- User Input
+- Strings
+- Integers
+- Floats
+- Type Casting
+- `type()`
+- `id()`
+- Arithmetic Operations
+- Output Formatting
 
-This project reinforces Python fundamentals through a practical
-interactive program and demonstrates clean coding practices suitable for
-beginner portfolios.
+---
 
-------------------------------------------------------------------------
+## 🎯 What I Learned
 
-⭐ If you like this project, consider giving it a star!
+While building this project, I practiced:
+
+- Taking user input
+- Working with different Python data types
+- Using built-in functions like `type()` and `id()`
+- Performing basic calculations
+- Formatting console output
+- Writing clean and readable Python code
+
+---
+
+⭐ Thank you for checking out my project!
