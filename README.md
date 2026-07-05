@@ -10,8 +10,6 @@ This project was built to practice the basics of Python programming while creati
 
 ## 📸 Output Screenshot
 
-Place the uploaded screenshot in `Screenshots/Python_Fundamental_Booster_Output.png`.
-
 ![Program Output](Screenshots/Python_Fundamental_Booster_Output.png)
 
 ---
